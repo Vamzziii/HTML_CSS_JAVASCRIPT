@@ -1,0 +1,10 @@
+//Basic HTML FILE
+<!DOCTYPE HTML>
+<!--WE WOULD BE USING THE BASIC HEAD, BODY, PARAGRAPH, HEADING TAGS TO WRITE A BASIC HTML SCRIPT.-->
+<HTML>
+  <HEAD>FIRST PAGE!</HEAD>
+  <BODY>
+    <H1>Welcome to my first HTML Page!</H1>
+    <P> This a small introduction about me. I am Sri Vamsi Chunduru
+  </BODY>
+</HTML>
